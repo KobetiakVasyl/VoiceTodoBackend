@@ -1,0 +1,5 @@
+/.history
+/node_modules
+/assets/environments/.env.local
+/assets/environments/.env.dev
+/assets/environments/.env.prod
